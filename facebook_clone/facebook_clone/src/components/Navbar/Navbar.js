@@ -52,7 +52,7 @@ class Navbar extends Component {
 
                     
                     <Avatar className="navbar_rightimg" src="https://scontent.fbho4-3.fna.fbcdn.net/v/t1.6435-1/120015140_319554869348445_1586273488652125233_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=XG4umKxzgn4AX_pRXup&_nc_ht=scontent.fbho4-3.fna&oh=00_AT_nlujeqKxdRSO9URPvmJtILz3Oa1hKoUhgw_wnlfSf-Q&oe=62FD4FC2"/>
-                    <div className='navbar_profilename'>Aakash</div>
+                    <div className='navbar_profilename'>Sagar</div>
                     <div className="navbar_rtabs">
                         <img src={upload} height="35px" width="35px"/>
                     </div>
